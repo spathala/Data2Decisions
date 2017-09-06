@@ -5,7 +5,7 @@ This dataset seems appealing and interesting to me as it shows data about scams 
 ## Data
 There are approximately 15000 records of complaints in the dataset comprising of 9 columns. Few of the columns are 'Reference Number', 'created Date', 'consumer address'. 
 
-##License
+## License
 As per John Templon, BuzzFeed News reporter, the data is obtained from the FTC via a Freedom of Information Act request.
 
 - [data/FTC_2011-43014.csv](data/FTC_2011-43014.csv): All complaints to the Federal Trade Commission that mention IRS in the complaint. The data was received via a Freedom of Information Request. This is the first half of the data, which contains all complaints from January 1, 2011 through April 30, 2014.
