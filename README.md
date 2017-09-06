@@ -15,6 +15,13 @@ something similar.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
+#### List of files in the repository
+* Earthquake
+* IRS_Scam
+* SamesexMarraige-Abortion
+* License
+* Readme.md
+
 ### Document Root Installation
 
 If you are installing in the document root, create your private directory as follows. Your public directory is your document
