@@ -9,6 +9,7 @@ This assignment is an exercise to learn information seeking
 This repository contains details about the work in information seeking.
 
 #### List of files in the repository
+* Data Entry Analysis
 * Earthquake
 * IRS_Scam
 * SamesexMarraige-Abortion
@@ -16,7 +17,6 @@ This repository contains details about the work in information seeking.
 * Readme.md
 
 ##### Future Projects
-* Data Entry Analysis
 * Workplan and RQ
 * Data Cleaning Documentation 
 * R Script
