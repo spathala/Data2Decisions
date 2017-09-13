@@ -6,8 +6,8 @@ This document describes the proposed solutions to the problems identified in the
 
 ## List of Files
 1. [Pond2010](https://github.com/spathala/Data2Decisions/blob/master/Data%20Entry%20Analysis/pond2010.xlsx)
-	https://github.com/spathala/Data2Decisions/blob/master/Data%20Entry%20Analysis/zoop%20-%20temp-main.xlsx
-	https://github.com/spathala/Data2Decisions/blob/master/Data%20Entry%20Analysis/zoop%20-%20temp.xlsx
+2. [Zoop-temp-main](https://github.com/spathala/Data2Decisions/blob/master/Data%20Entry%20Analysis/zoop%20-%20temp-main.xlsx)
+3. [zoop-temp](https://github.com/spathala/Data2Decisions/blob/master/Data%20Entry%20Analysis/zoop%20-%20temp.xlsx)
 
 ## Authors
 
