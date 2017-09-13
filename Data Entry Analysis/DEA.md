@@ -24,9 +24,9 @@ The 3 excel files added to the folder “Data Entry Analysis” belong to the sa
 # Problems identified in the data files provided
 
 1.	Units for certain columns are not specified. 
-•	In all 3 files, Temp field doesn’t specify whether noted in Fahrenheit or Celsius.
-•	Density in “pond2010.xlsx”
-•	Chla (Chrolophylla) 
+* In all 3 files, Temp field doesn’t specify whether noted in Fahrenheit or Celsius.
+* Density in “pond2010.xlsx”
+* Chla (Chrolophylla) 
 
 2.	Column names may not be understood by the user of zoop-temp.xlsx since it does not have the names tab unlike the zoop-temp-main.xlsx. Also, in pond2010.xlsx column “Z” does not indicate which data is collected (attribute) clearly.
 
@@ -48,8 +48,8 @@ The 3 excel files added to the folder “Data Entry Analysis” belong to the sa
 10.	The reason for color coding is not clearly mentioned to the user. Certain values in the provided data files are in red/yellow
 
 11.	In zoop-temp.xlsx, 
-•	The term “secchi” is neither explained nor used.
-•	The purpose for the small table to the right is not clearly understood (7th,9th, chippo, cuni)
+* The term “secchi” is neither explained nor used.
+* The purpose for the small table to the right is not clearly understood (7th,9th, chippo, cuni)
 
 ### Task 2
 
